@@ -1,10 +1,10 @@
 const destinations = require('./config/destinations');
 
-// Для авиабилетов (Aviasales)
+// Для авиабилетов
 const aviaPartnerCode = 'https://tp.media/r?marker=125405&trs=26086&p=4114&u=';
 const flightCampaignSuffix = '&campaign_id=100';
 
-// Для туров (Travelata и др.)
+// Для туров
 const tourPartnerCode = 'https://tp.media/r?marker=125405&trs=26086&p=771&u=';
 
 module.exports = {
