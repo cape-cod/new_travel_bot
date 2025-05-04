@@ -1,0 +1,19 @@
+{
+  "name": "flyprice_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.32.0",
+    "telegraf-calendar-telegram": "^1.5.8"
+  }
+}
